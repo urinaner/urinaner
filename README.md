@@ -1,15 +1,13 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20KangDonghoon();&fontColor=f5ce00&fontSize=70&animation=twinkling)
 
-### Hi there [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://jesuisjavert.github.io/)](https://jesuisjavert.github.io/) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/unialike/)](https://www.instagram.com/unialike/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesuisjavert&count_bg=%23DB74CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)](https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)
-<hr>
+
 
 - 💻I'm a Software Engineer Interested in C#, Web, Cloud and Deep Learning.
 - 🌏 I am from South Korea and living in Dongtan. I lived in France for a while.
-- 🔭 I’m currently working as a Software Enginner at ASM Korea.
-- 🌱 I’m currently learning C# / C++. 
+- 🔭 I’m currently studying  at Sejong University.
+- 🌱 I’m currently learning Python / C++. 
 - 🚀 I always take care not to stay in my comfort zone.
-- 📫 How to reach me: jesuisjavert@gmail.com
-- 😄 Fun facts: I speak Korean, English, French ! Enchanté tout le monde 😊
+- 📫 How to reach me: urinane1004@gmail.com
+- 😄 Fun facts: I speak Korean, English ! 😊
 
 
 <hr>
