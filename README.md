@@ -19,6 +19,9 @@
 <hr>
 그 외 활동
 <br>
+Coding-nara 공동창업(2023.01.23~) 교육서비스업 진행중 사업자등록번호 148-14-01860![1 오후 6 26 44](https://github.com/urinaner/urinaner/assets/27186972/cdf21397-ff44-4645-9693-dcac6e28aa79)
+
+<br>
 연합뉴스tv에 프로젝트 출연
 <img src="IMG_0148.PNG" width="350" height="170">
 
