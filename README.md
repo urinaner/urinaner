@@ -18,7 +18,7 @@
 
 <hr>
 그 외 활동
-<br>![IMG_0148](https://github.com/urinaner/urinaner/assets/27186972/99268308-cfbf-4b82-9e1f-43200a30b309)
+<br>
 
 
 한국데이터산업진흥원 [2023]자연어처리기반 딥러닝기술 융합과정-2차 수료
