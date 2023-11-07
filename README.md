@@ -18,6 +18,8 @@
 
 <hr>
 그 외 활동
+<img src="IMG_0148.PNG">
+
 <img src="IMG_0148.PNG"  width="700" height="370">
 <br>
 
