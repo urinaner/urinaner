@@ -18,6 +18,7 @@
 
 <hr>
 그 외 활동
+<br>
 연합뉴스tv에 프로젝트 출연
 <img src="IMG_0148.PNG" width="350" height="170">
 <br>
