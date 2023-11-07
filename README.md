@@ -20,8 +20,6 @@
 그 외 활동
 <br>
 Coding-nara 공동창업(2023.01.23~) 교육서비스업 진행중
-<img src="logo.png" width="150" height="150">
-
 <br>
 연합뉴스tv에 프로젝트 출연
 <img src="IMG_0148.PNG" width="350" height="170">
