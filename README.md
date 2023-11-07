@@ -20,7 +20,7 @@
 그 외 활동
 <br>
 Coding-nara 공동창업(2023.01.23~) 교육서비스업 진행중 사업자등록번호 148-14-01860
-<img src="logo.png" width="50" height="50">
+<img src="logo.png" width="150" height="150">
 
 <br>
 연합뉴스tv에 프로젝트 출연
