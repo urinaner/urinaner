@@ -16,6 +16,7 @@
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 <hr>
 그 외 활동
+<br>
 육군병장 만기제대 2019-06-25~2021-01-04
 <br>
 세종대학교 2023-2학기 창업아이템 경진대회 본선진출
@@ -29,6 +30,10 @@
 사이버보안 AI 빅데이터 챌린지 2023 1위(2023.12.7)
 <br>
 제11회 2023 빅콘테스트 생성형 AI부문 1위 (2023.12.13)
+<br>
+로봇클럽 코딩클럽 코딩강사 (2023.06~2023.12)
+<br>
+세종대학교 인공지능동아리 SAI(2023.03~2023.12)
 
 자격증<br>
 리눅스마스터 2급 2015.06.04 LMS-1502-000151 한국정보통신진흥협회<br>
