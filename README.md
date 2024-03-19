@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julysummerdoyou)](https://solved.ac/urinaner/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urinaner)](https://solved.ac/urinaner/)
 
 
 - 💻I'm a Software Engineer Interested in Python, Web and Deep Learning.
