@@ -1,10 +1,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=urinaner)](https://solved.ac/urinaner/)
 
 
-- 💻I'm a Software Engineer Interested in Python, Web and Deep Learning.
+- 💻I'm a Software Engineer Interested in Backend, Web and Deep Learning.
 - 🌏 I am from South Korea and living in Seoul.
 - 🔭 I’m currently studying at Sejong University.
-- 🌱 I’m currently learning Python / C++. 
+- 🌱 I’m currently learning Docker / kubernetes. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: urinane1004@gmail.com
 
