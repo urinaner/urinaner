@@ -3,7 +3,6 @@
 
 - 💻I'm a Software Engineer Interested in Backend, Web and AI.
 - 🌏 I am from South Korea and living in Seoul.
-- 🔭 I’m currently studying at Sejong University.
 - 🌱 I’m currently learning Docker / kubernetes. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: urinane1004@gmail.com
@@ -49,21 +48,22 @@
 
 <div align=center><h2>📚 Other Experience</h2></div>
 <div align=center>
+  <br>
   육군병장 만기제대 2019-06-25 ~ 2021-01-18
-  <br>
-  세종대학교 2023-2학기 창업아이템 경진대회 본선진출
-  <br>
-  세종대학교 Creative Sejong IDEA 공모전 참여
-  <br>
-  세종대학교 2023년 동계 창업캠프 수료
-  <br>
   한국데이터산업진흥원 [2023] 자연어처리기반 딥러닝기술 융합과정-2차 수료 2023.08.31
   <br>
   로봇클럽 코딩클럽 코딩강사 2022.06 ~ 2022.12
   <br>
-  세종대학교 인공지능동아리 SAI 2023.03 ~ 2023.12
+  OO대학교 인공지능동아리 SAI 2023.03 ~ 2023.12
   <br>
-  세종대학교 앱개발동아리 ALOM 2024.03 ~ 2024.08
+  OO대학교 앱개발동아리 ALOM 2024.03 ~ 2024.08
+  <br>
+  OO대학교 2023-2학기 창업아이템 경진대회 본선진출
+  <br>
+  OO대학교 Creative Sejong IDEA 공모전 참여
+  <br>
+  OO대학교 2023년 동계 창업캠프 수료
+  <br>
 </div>
 
 <div align=center><h2>📚 Certification</h2></div>
