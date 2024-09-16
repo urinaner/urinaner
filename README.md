@@ -11,7 +11,6 @@
 
 <hr>
 
-
 **Languages and Tools**  
 <div align=center><h2>📚 Intermediate level </h2></div>
 <div align=center>
