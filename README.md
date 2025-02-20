@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Docker / kubernetes. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: urinane1004@gmail.com
-- 👉🏻[Resume](https://aerial-parakeet-030.notion.site/Yung-Jae-Jang-a0fa3e7dbbb34f90947c7b517704442c)
  
 
 <hr>
@@ -32,10 +31,7 @@
 
 <div align=center><h2>📚 Beginner level, Studying now </h2></div>
 <div align=center>
- <img src="https://img.shields.io/badge/Kubernetes-1BA0D7?style=for-the-badge&logo=Kubernetes&logoColor=white">
- <img src="https://img.shields.io/badge/AWS SAA-232F3E?style=for-the-badge&logo=AWS SAA&logoColor=white">
- <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argos&logoColor=white">
- <br>
+
 </div>
 
 <div align=center><h2>📚 Awards</h2></div>
@@ -49,6 +45,7 @@
 <div align=center>
   <br>
   육군병장 만기제대 2019-06-25 ~ 2021-01-18
+ <br>
   한국데이터산업진흥원 [2023] 자연어처리기반 딥러닝기술 융합과정-2차 수료 2023.08.31
   <br>
   로봇클럽 코딩클럽 코딩강사 2022.06 ~ 2022.12
